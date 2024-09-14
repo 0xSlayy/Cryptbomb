@@ -44,7 +44,7 @@ Before running the script, make it executable:
 
 bash
 
-```chmod +x slayy_script.sh```
+```chmod +x slayyed.sh```
 
 Run the Script
 
@@ -52,7 +52,7 @@ Execute the script with:
 
 bash
 
-```./slayy_script.sh```
+```./slayyed.sh```
 
 The script will:
 
